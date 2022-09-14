@@ -1,0 +1,693 @@
+,artist,title,metascore,user_score,url,genre
+0,The Jayhawks,Rainy Day Music,73,8.9,/music/rainy-day-music/the-jayhawks,Rock
+1,Elefant,Sunlight Makes Me Paranoid,70,8.9,/music/sunlight-makes-me-paranoid/elefant,Indie
+2,Lucinda Williams,World Without Tears,87,8.9,/music/world-without-tears/lucinda-williams,Rock
+3,The Libertines,Up The Bracket,78,8.9,/music/up-the-bracket/the-libertines,Indie
+4,AFI,Sing The Sorrow,81,8.9,/music/sing-the-sorrow/afi,Rock
+5,The Postal Service,Give Up,79,8.9,/music/give-up/the-postal-service,Indie
+6,Nada Surf,Let Go,80,8.9,/music/let-go/nada-surf,Indie
+7,Jennifer Lopez,This Is Me... Then,74,8.9,/music/this-is-me-then/jennifer-lopez,Dance
+8,8 Mile (Eminem),OST,76,8.9,/music/ost/8-mile-eminem,Rap
+9,Tori Amos,Scarlet's Walk,79,8.9,/music/scarlets-walk/tori-amos,Rock
+10,Christina Aguilera,Stripped,80,8.9,/music/stripped/christina-aguilera,Dance
+11,Beck,Sea Change,89,8.9,/music/sea-change/beck,Rock
+12,Coldplay,A Rush Of Blood To The Head,81,8.9,/music/a-rush-of-blood-to-the-head/coldplay,Rock
+13,Queens of the Stone Age,Songs For The Deaf,84,8.9,/music/songs-for-the-deaf/queens-of-the-stone-age,Rock
+14,Interpol,Turn On The Bright Lights,76,8.9,/music/turn-on-the-bright-lights/interpol,Indie
+15,Tom Waits,Blood Money,87,8.9,/music/blood-money/tom-waits,Rock
+16,Paul Westerberg,Stereo,68,8.9,/music/stereo/paul-westerberg,Rock
+17,Wilco,Yankee Hotel Foxtrot,69,8.9,/music/yankee-hotel-foxtrot/wilco,Rock
+18,Kylie Minogue,Fever,89,8.9,/music/fever/kylie-minogue,Dance
+19,No Doubt,Rock Steady,66,8.9,/music/rock-steady/no-doubt,Rock
+20,The Avalanches,Since I Left You,91,8.9,/music/since-i-left-you/the-avalanches,Dance
+21,Aphex Twin,Drukqs,73,8.9,/music/drukqs/aphex-twin,Electronic
+22,The Strokes,Is This It?,88,8.9,/music/is-this-it/the-strokes,Unspecified
+23,System Of A Down,Toxicity,76,8.9,/music/toxicity/system-of-a-down,Rock
+24,Björk,Vespertine,76,8.9,/music/vespertine/bjork,Electronic
+25,Aaliyah,Aaliyah,87,8.9,/music/aaliyah/aaliyah,Pop
+26,Nikka Costa,Everybody Got Their Something,75,8.9,/music/everybody-got-their-something/nikka-costa,Rock
+27,Sigur Rós,Ágætis Byrjun,65,8.9,/music/agatis-byrjun/sigur-ros,Indie
+28,Tool,Lateralus,70,8.9,/music/lateralus/tool,Rock
+29,Placebo,Black Market Music,72,8.9,/music/black-market-music/placebo,Rock
+30,Stevie Nicks,Trouble in Shangri-La,88,8.9,/music/trouble-in-shangri-la/stevie-nicks,Rock
+31,Marilyn Manson,Holy Wood (In the Shadow of the Valley of Death),79,8.9,/music/holy-wood-in-the-shadow-of-the-valley-of-death/marilyn-manson,Rock
+32,PJ Harvey,"Stories from the City, Stories from the Sea",71,8.9,/music/stories-from-the-city-stories-from-the-sea/pj-harvey,Rock
+33,Nelly Furtado,"Whoa, Nelly!",80,8.9,/music/whoa-nelly!/nelly-furtado,Rock
+34,The Wallflowers,Breach,84,8.9,/music/breach/the-wallflowers,Rock
+35,Radiohead,Kid A,69,8.9,/music/kid-a/radiohead,Rock
+36,Godspeed You! Black Emperor,Lift Your Skinny Fists Like Antennas to Heaven,72,8.9,/music/lift-your-skinny-fists-like-antennas-to-heaven/godspeed-you!-black-emperor,Indie
+37,Ian Brown,Golden Greats,82,8.9,/music/golden-greats/ian-brown,Rock
+38,Deftones,White Pony,79,8.9,/music/white-pony/deftones,Rock
+39,Modest Mouse,The Moon & Antarctica,86,8.9,/music/the-moon-antarctica/modest-mouse,Indie
+40,Fiona Apple,When The Pawn...,84,8.9,/music/when-the-pawn/fiona-apple,Rock
+41,The Smile,A Light for Attracting Attention,83,8.9,/music/a-light-for-attracting-attention/the-smile,Pop/Rock
+42,Florence + the Machine,Dance Fever,78,8.9,/music/dance-fever/florence-+-the-machine,Pop/Rock
+43,Kehlani,Blue Water Road,84,8.9,/music/blue-water-road/kehlani,R&B
+44,Placebo,Never Let Me Go,81,8.9,/music/never-let-me-go/placebo,Britpop
+45,Ghost,Impera,74,8.9,/music/impera/ghost,Pop/Rock
+46,Conway the Machine,God Don't Make Mistakes,87,8.9,/music/god-dont-make-mistakes/conway-the-machine,Rap
+47,Avril Lavigne,Love Sux,84,8.9,/music/love-sux/avril-lavigne,Pop/Rock
+48,Hurray for the Riff Raff,LIFE ON EARTH,87,8.9,/music/life-on-earth/hurray-for-the-riff-raff,Pop/Rock
+49,Beach House,Once Twice Melody,85,8.9,/music/once-twice-melody/beach-house,Pop/Rock
+50,Big Thief,Dragon New Warm Mountain I Believe in You,81,8.9,/music/dragon-new-warm-mountain-i-believe-in-you/big-thief,Pop/Rock
+51,Spoon,Lucifer on the Sofa,83,8.9,/music/lucifer-on-the-sofa/spoon,Pop/Rock
+52,Aurora,The Gods We Can Touch,85,8.9,/music/the-gods-we-can-touch/aurora,Pop/Rock
+53,Silk Sonic,An Evening with Silk Sonic,70,8.9,/music/an-evening-with-silk-sonic/silk-sonic,R&B
+54,Remi Wolf,Juno,80,8.9,/music/juno/remi-wolf,Pop/Rock
+55,Tony Bennett,Love for Sale,82,8.9,/music/love-for-sale/tony-bennett,Jazz
+56,Sufjan Stevens,A Beginner's Mind,85,8.9,/music/a-beginners-mind/sufjan-stevens,Pop/Rock
+57,Injury Reserve,By The Time I Get To Phoenix,84,8.9,/music/by-the-time-i-get-to-phoenix/injury-reserve,Rap
+58,Amyl and the Sniffers,Comfort To Me,83,8.9,/music/comfort-to-me/amyl-and-the-sniffers,Pop/Rock
+59,Low,Hey What,79,8.9,/music/hey-what/low,Pop/Rock
+60,Iron Maiden,Senjutsu,86,8.9,/music/senjutsu/iron-maiden,Pop/Rock
+61,The Killers,Pressure Machine,88,8.9,/music/pressure-machine/the-killers,Pop/Rock
+62,Nas,King's Disease II,88,8.9,/music/kings-disease-ii/nas,Rap
+63,Japanese Breakfast,Jubilee,78,8.9,/music/jubilee/japanese-breakfast,Pop/Rock
+64,Lord Huron,Long Lost,79,8.9,/music/long-lost/lord-huron,Pop/Rock
+65,Porter Robinson,Nurture,65,8.9,/music/nurture/porter-robinson,Unspecified
+66,Hayley Williams,Flowers for Vases/descansos,72,8.9,/music/flowers-for-vasesdescansos/hayley-williams,Pop/Rock
+67,Eminem,Music to Be Murdered By - Side B (Deluxe Edition),87,8.9,/music/music-to-be-murdered-by---side-b-deluxe-edition/eminem,Unspecified
+68,Kylie Minogue,DISCO,84,8.9,/music/disco/kylie-minogue,Pop
+69,Deftones,Ohms,90,8.9,/music/ohms/deftones,Pop/Rock
+70,Jessie Ware,What's Your Pleasure?,89,8.9,/music/whats-your-pleasure/jessie-ware,Pop/Rock
+71,Phoebe Bridgers,Punisher,79,8.9,/music/punisher/phoebe-bridgers,Pop/Rock
+72,Run the Jewels,RTJ4,77,8.9,/music/rtj4/run-the-jewels,Rap
+73,Carly Rae Jepsen,Dedicated Side B,83,8.9,/music/dedicated-side-b/carly-rae-jepsen,Pop
+74,Kehlani,It Was Good Until It Wasn't,88,8.9,/music/it-was-good-until-it-wasnt/kehlani,R&B
+75,Hayley Williams,Petals for Armor,80,8.9,/music/petals-for-armor/hayley-williams,Pop/Rock
+76,Dua Lipa,Future Nostalgia,63,8.9,/music/future-nostalgia/dua-lipa,Pop
+77,The Weeknd,After Hours,79,8.9,/music/after-hours/the-weeknd,R&B
+78,Niall Horan,Heartbreak Weather,77,8.9,/music/heartbreak-weather/niall-horan,Pop/Rock
+79,Grimes,Miss Anthropocene,84,8.9,/music/miss-anthropocene/grimes,Electronic
+80,Beyoncé,The Lion King: The Gift,86,8.9,/music/the-lion-king-the-gift/beyonce,R&B
+81,"Tyler, The Creator",Flower Boy,81,8.9,/music/flower-boy/tyler-the-creator,Rap
+82,SZA,CTRL,88,8.8,/music/ctrl/sza,R&B
+83,All Them Witches,Sleeping Through the War,91,8.8,/music/sleeping-through-the-war/all-them-witches,Pop/Rock
+84,Run the Jewels,Run the Jewels 3,62,8.8,/music/run-the-jewels-3/run-the-jewels,Rap
+85,A Tribe Called Quest,We Got It From Here...Thank You 4 Your Service,85,8.8,/music/we-got-it-from-herethank-you-4-your-service/a-tribe-called-quest,Rap
+86,Mono,Requiem for Hell,74,8.8,/music/requiem-for-hell/mono,Electronic
+87,Danny Brown,Atrocity Exhibition,73,8.8,/music/atrocity-exhibition/danny-brown,Rap
+88,John Paul White,Beulah,87,8.8,/music/beulah/john-paul-white,Unspecified
+89,Roosevelt,Roosevelt,82,8.8,/music/roosevelt/roosevelt,Electronic
+90,Mitski,Puberty 2,72,8.8,/music/puberty-2/mitski,Pop/Rock
+91,Architects,All Our Gods Have Abandoned Us,88,8.8,/music/all-our-gods-have-abandoned-us/architects,Metal
+92,Islands,Taste,83,8.8,/music/taste/islands,Pop/Rock
+93,Radiohead,A Moon Shaped Pool,80,8.8,/music/a-moon-shaped-pool/radiohead,Alternative
+94,King Gizzard & the Lizard Wizard,Nonagon Infinity,87,8.8,/music/nonagon-infinity/king-gizzard-the-lizard-wizard,Pop/Rock
+95,Aurora,All My Demons Greeting Me as a Friend,88,8.8,/music/all-my-demons-greeting-me-as-a-friend/aurora,Pop
+96,David Bowie,Blackstar,72,8.8,/music/blackstar/david-bowie,Pop/Rock
+97,Grimes,Art Angels,85,8.8,/music/art-angels/grimes,Pop/Rock
+0,Ghost / Ghost B.C.,Meliora,78,8.8,/music/meliora/ghost-ghost-bc,Unspecified
+1,Tame Impala,Currents,84,8.8,/music/currents/tame-impala,Pop/Rock
+2,The Fall,Sub-Lingual Tablet,68,8.8,/music/sub-lingual-tablet/the-fall,Pop/Rock
+3,Florence + the Machine,"How Big, How Blue, How Beautiful",77,8.8,/music/how-big-how-blue-how-beautiful/florence-+-the-machine,Pop
+4,Lord Huron,Strange Trails,74,8.8,/music/strange-trails/lord-huron,Pop/Rock
+5,Sufjan Stevens,Carrie & Lowell,90,8.8,/music/carrie-lowell/sufjan-stevens,Singer/Songwriter
+6,Mini Mansions,The Great Pretenders,84,8.8,/music/the-great-pretenders/mini-mansions,Pop/Rock
+7,Chastity Belt,Time to Go Home,78,8.8,/music/time-to-go-home/chastity-belt,Pop/Rock
+8,Marina and the Diamonds,Froot,75,8.8,/music/froot/marina-and-the-diamonds,Pop/Rock
+9,Susanne Sundfør,Ten Love Songs,87,8.8,/music/ten-love-songs/susanne-sundfor,Pop/Rock
+10,Björk,Vulnicura,87,8.8,/music/vulnicura/bjork,Unspecified
+11,Benjamin Clementine,At Least for Now,75,8.8,/music/at-least-for-now/benjamin-clementine,R&B
+12,D'Angelo,Black Messiah,95,8.8,/music/black-messiah/dangelo,R&B
+13,Simple Minds,Big Music,75,8.8,/music/big-music/simple-minds,Pop
+14,Big K.R.I.T.,Cadillactica,88,8.8,/music/cadillactica/big-krit,Southern Rap
+15,Run the Jewels,RTJ2,89,8.8,/music/rtj2/run-the-jewels,Rap
+16,Tinashe,Aquarius,80,8.8,/music/aquarius/tinashe,Unspecified
+17,Porter Robinson,Worlds,63,8.8,/music/worlds/porter-robinson,Electronic
+18,Lana Del Rey,Ultraviolence,74,8.8,/music/ultraviolence/lana-del-rey,Pop/Rock
+19,Tori Amos,Unrepentant Geraldines,77,8.8,/music/unrepentant-geraldines/tori-amos,Adult Contemporary
+20,Nikki Lane,All or Nothin',79,8.8,/music/all-or-nothin/nikki-lane,Americana
+21,Lykke Li,I Never Learn,77,8.8,/music/i-never-learn/lykke-li,Pop/Rock
+22,MØ,No Mythologies to Follow,76,8.8,/music/no-mythologies-to-follow/m,Electronic
+23,Linda Perhacs,The  Soul of All Natural Things,73,8.8,/music/the-soul-of-all-natural-things/linda-perhacs,Folk
+24,Brendan Benson,You Were Right,73,8.8,/music/you-were-right/brendan-benson,Pop/Rock
+25,Cate Le Bon,Mug Museum,77,8.8,/music/mug-museum/cate-le-bon,Pop/Rock
+26,Throwing Muses,Purgatory/Paradise,78,8.8,/music/purgatoryparadise/throwing-muses,Pop/Rock
+27,Arcade Fire,Reflektor,80,8.8,/music/reflektor/arcade-fire,Pop/Rock
+28,Juana Molina,Wed 21,80,8.8,/music/wed-21/juana-molina,Pop/Rock
+29,Cage the Elephant,Melophobia,73,8.8,/music/melophobia/cage-the-elephant,Pop/Rock
+30,Darkside,Psychic,79,8.8,/music/psychic/darkside,Electronic
+31,Chvrches,The Bones of What You Believe,80,8.8,/music/the-bones-of-what-you-believe/chvrches,Pop/Rock
+32,Birdy,Fire Within,66,8.8,/music/fire-within/birdy,Pop/Rock
+33,Someone Still Loves You Boris Yeltsin,Fly by Wire,64,8.8,/music/fly-by-wire/someone-still-loves-you-boris-yeltsin,Pop/Rock
+34,Jessy Lanza,Pull My Hair Back,79,8.8,/music/pull-my-hair-back/jessy-lanza,Electronic
+35,Willis Earl Beal,Nobody Knows,74,8.8,/music/nobody-knows/willis-earl-beal,Gospel
+36,Goldfrapp,Tales of Us,75,8.8,/music/tales-of-us/goldfrapp,Pop/Rock
+37,Janelle Monáe,The  Electric Lady,82,8.8,/music/the-electric-lady/janelle-monae,Unspecified
+38,John Wizards,John Wizards,81,8.8,/music/john-wizards/john-wizards,Pop/Rock
+39,Chelsea Wolfe,Pain Is Beauty,82,8.8,/music/pain-is-beauty/chelsea-wolfe,Alternative/Indie Rock
+40,Volcano Choir,Repave,77,8.8,/music/repave/volcano-choir,Pop/Rock
+41,Crocodiles,Crimes of Passion,64,8.8,/music/crimes-of-passion/crocodiles,Pop/Rock
+42,Pure Bathing Culture,Moon Tides,75,8.8,/music/moon-tides/pure-bathing-culture,Pop/Rock
+43,Drenge,Drenge,76,8.8,/music/drenge/drenge,Pop/Rock
+44,Half Moon Run,Dark Eyes,70,8.8,/music/dark-eyes/half-moon-run,Pop/Rock
+45,Nadine Shah,Love Your Dum and Mad,75,8.8,/music/love-your-dum-and-mad/nadine-shah,Pop/Rock
+46,Sara Bareilles,The  Blessed Unrest,68,8.8,/music/the-blessed-unrest/sara-bareilles,Adult Contemporary
+47,Queens of the Stone Age,...Like Clockwork,82,8.8,/music/like-clockwork/queens-of-the-stone-age,Pop
+48,Vampire Weekend,Modern Vampires of the City,84,8.8,/music/modern-vampires-of-the-city/vampire-weekend,Pop/Rock
+49,Daughter,If You Leave,72,8.8,/music/if-you-leave/daughter,Pop/Rock
+50,The Black Angels,Indigo Meadow,68,8.8,/music/indigo-meadow/the-black-angels,Pop/Rock
+51,Woodkid,The  Golden Age,66,8.8,/music/the-golden-age/woodkid,Pop/Rock
+52,Steven Wilson,The Raven That Refused to Sing and Other Stories,77,8.8,/music/the-raven-that-refused-to-sing-and-other-stories/steven-wilson,Pop/Rock
+53,Flume,Flume,73,8.8,/music/flume/flume,Electronic
+54,Lady Lamb the Beekeeper,Ripely Pine,82,8.8,/music/ripely-pine/lady-lamb-the-beekeeper,Pop/Rock
+55,Atlas Genius,When It Was Now,61,8.8,/music/when-it-was-now/atlas-genius,Pop/Rock
+56,Deftones,Koi No Yokan,86,8.8,/music/koi-no-yokan/deftones,Pop/Rock
+57,Iamamiwhoami,Kin,74,8.8,/music/kin/iamamiwhoami,Pop/Rock
+58,Mac DeMarco,2,81,8.8,/music/2/mac-demarco,Pop/Rock
+59,Pinback,Information Retrieved,72,8.8,/music/information-retrieved/pinback,Pop/Rock
+60,Converge,All We Love We Leave Behind,88,8.8,/music/all-we-love-we-leave-behind/converge,Pop/Rock
+61,Coheed and Cambria,The Afterman: Ascension,74,8.8,/music/the-afterman-ascension/coheed-and-cambria,Pop/Rock
+62,Ty Segall,Twins,80,8.8,/music/twins/ty-segall,Pop/Rock
+63,Miguel,Kaleidoscope Dream,86,8.8,/music/kaleidoscope-dream/miguel,R&B
+64,L.V.,Sebenza,82,8.8,/music/sebenza/lv,Electronic
+65,Grizzly Bear,Shields,86,8.8,/music/shields/grizzly-bear,Alternative/Indie Rock
+66,Jessie Ware,Devotion,85,8.8,/music/devotion/jessie-ware,Unspecified
+67,Yellowcard,Southern Air,83,8.8,/music/southern-air/yellowcard,Emo
+68,Passion Pit,Gossamer,76,8.8,/music/gossamer/passion-pit,Pop/Rock
+69,Frank Ocean,Channel Orange,92,8.8,/music/channel-orange/frank-ocean,R&B
+70,Gojira,L'Enfant Sauvage,86,8.8,/music/lenfant-sauvage/gojira,Pop/Rock
+71,Fiona Apple,The Idler Wheel Is Wiser than the Driver of the Screw and Whipping Cords Will Serve You More than Ropes Will Ever Do,89,8.8,/music/the-idler-wheel-is-wiser-than-the-driver-of-the-screw-and-whipping-cords-will-serve-you-more-than-ro/fiona-apple,Pop/Rock
+72,Japandroids,Celebration Rock,83,8.8,/music/celebration-rock/japandroids,Pop/Rock
+73,Kimbra,Vows,72,8.8,/music/vows/kimbra,Pop
+74,Beach House,Bloom,78,8.8,/music/bloom/beach-house,Pop/Rock
+75,Lone,Galaxy Garden,77,8.8,/music/galaxy-garden/lone,Electronic
+76,Death Grips,The Money Store,81,8.8,/music/the-money-store/death-grips,Rap
+77,Maps & Atlases,Beware and Be Grateful,71,8.8,/music/beware-and-be-grateful/maps-atlases,Pop/Rock
+78,Moonface,Heartbreaking Bravery,78,8.8,/music/heartbreaking-bravery/moonface,Pop/Rock
+79,Florence + the Machine,MTV Unplugged [Live],66,8.8,/music/mtv-unplugged-live/florence-+-the-machine,Pop
+80,Of Monsters and Men,My Head Is an Animal,66,8.8,/music/my-head-is-an-animal/of-monsters-and-men,Folk
+81,The Jezabels,Prisoner,72,8.8,/music/prisoner/the-jezabels,Alternative/Indie Rock
+82,Chromatics,Kill For Love,80,8.8,/music/kill-for-love/chromatics,Pop/Rock
+83,Melanie Fiona,The MF Life,75,8.8,/music/the-mf-life/melanie-fiona,R&B
+84,Pond,"Beard, Wives, Denim",77,8.8,/music/beard-wives-denim/pond,Pop/Rock
+85,Andrew Bird,Break It Yourself,80,8.8,/music/break-it-yourself/andrew-bird,Adult Alternative Pop/Rock
+86,Beth Jeans Houghton,"Yours Truly, Cellophane Nose",79,8.8,/music/yours-truly-cellophane-nose/beth-jeans-houghton,Pop/Rock
+87,Grimes,Visions,80,8.8,/music/visions/grimes,Electronic
+88,Cloud Nothings,Attack On Memory,83,8.8,/music/attack-on-memory/cloud-nothings,Pop/Rock
+89,Lacuna Coil,Dark Adrenaline,74,8.8,/music/dark-adrenaline/lacuna-coil,Pop/Rock
+90,Chairlift,Something,76,8.8,/music/something/chairlift,Pop/Rock
+91,First Aid Kit,The Lion's Roar,81,8.8,/music/the-lions-roar/first-aid-kit,Pop/Rock
+92,Bill Ryder-Jones,If...,81,8.8,/music/if/bill-ryder-jones,Pop/Rock
+93,The Roots,Undun,88,8.8,/music/undun/the-roots,Rap
+94,Sepalcure,Sepalcure,82,8.8,/music/sepalcure/sepalcure,Electronic
+95,Oneohtrix Point Never,Replica,80,8.8,/music/replica/oneohtrix-point-never,Electronic
+96,Deer Tick,Divine Providence,71,8.8,/music/divine-providence/deer-tick,Pop/Rock
+97,M83,"Hurry Up, We're Dreaming",76,8.8,/music/hurry-up-were-dreaming/m83,Electronic
+98,Youth Lagoon,The  Year of Hibernation,77,8.8,/music/the-year-of-hibernation/youth-lagoon,Pop/Rock
+99,St. Vincent,Strange Mercy,85,8.8,/music/strange-mercy/st-vincent,Pop/Rock
+0,Grace Jones,Hurricane,72,8.8,/music/hurricane/grace-jones,Rock
+1,Juliana Hatfield,There's Always Another Girl,75,8.8,/music/theres-always-another-girl/juliana-hatfield,Pop/Rock
+2,Pistol Annies,Hell On Heels,84,8.8,/music/hell-on-heels/pistol-annies,Unspecified
+3,Active Child,You Are All I See,77,8.8,/music/you-are-all-i-see/active-child,Pop/Rock
+4,Portugal. The Man,In the Mountain in the Cloud,73,8.8,/music/in-the-mountain-in-the-cloud/portugal-the-man,Pop/Rock
+5,Arch Enemy,Khaos Legions,70,8.8,/music/khaos-legions/arch-enemy,Pop/Rock
+6,City and Colour,Little Hell,78,8.8,/music/little-hell/city-and-colour,Singer/Songwriter
+7,Art Brut,Brilliant! Tragic!,67,8.8,/music/brilliant!-tragic!/art-brut,Pop/Rock
+8,The Felice Brothers,"Celebration, Florida",77,8.8,/music/celebration-florida/the-felice-brothers,Pop/Rock
+9,Fleet Foxes,Helplessness Blues,85,8.8,/music/helplessness-blues/fleet-foxes,Pop/Rock
+10,Foo Fighters,Wasting Light,78,8.8,/music/wasting-light/foo-fighters,Pop/Rock
+11,Eisley,The  Valley,71,8.8,/music/the-valley/eisley,Pop/Rock
+12,Lykke Li,Wounded Rhymes,83,8.8,/music/wounded-rhymes/lykke-li,Pop/Rock
+13,Destroyer,Kaputt,84,8.8,/music/kaputt/destroyer,Pop/Rock
+14,Times of Grace,The Hymn of a Broken Man,69,8.8,/music/the-hymn-of-a-broken-man/times-of-grace,Pop/Rock
+15,Jazmine Sullivan,Love Me Back,82,8.8,/music/love-me-back/jazmine-sullivan,R&B
+16,Robyn,Body Talk,86,8.8,/music/body-talk/robyn,Pop
+17,Arcade Fire,The Suburbs,87,8.8,/music/the-suburbs/arcade-fire,Pop/Rock
+18,Wolf Parade,Expo 86,75,8.8,/music/expo-86/wolf-parade,Rock
+19,Laurie Anderson,Homeland,82,8.8,/music/homeland,Rock
+20,Punch Brothers,Antifogmatic,80,8.8,/music/antifogmatic/punch-brothers,Country
+21,Crystal Castles,Crystal Castles [2010],77,8.8,/music/crystal-castles-2010/crystal-castles,Dance
+22,Widespread Panic,Dirty Side Down,73,8.8,/music/dirty-side-down/widespread-panic,Rock
+23,Janelle Monáe,The ArchAndroid,91,8.8,/music/the-archandroid/janelle-monae,R&B
+24,The National,High Violet,85,8.8,/music/high-violet/the-national,Indie
+25,Flying Lotus,Cosmogramma,86,8.8,/music/cosmogramma/flying-lotus,Electronic
+26,Deftones,Diamond Eyes,78,8.8,/music/diamond-eyes/deftones,Unspecified
+27,The Fall,Your Future Our Clutter,81,8.8,/music/your-future-our-clutter/the-fall,Rock
+28,The Tallest Man on Earth,Wild Hunt,79,8.8,/music/wild-hunt/the-tallest-man-on-earth,Rock
+29,Harlem,Hippies,70,8.8,/music/hippies/harlem,Indie
+30,Laura Marling,I Speak Because I Can,81,8.8,/music/i-speak-because-i-can/laura-marling,Rock
+31,Bonobo,Black Sands,73,8.8,/music/black-sands/bonobo,Electronic
+32,These New Puritans,Hidden,83,8.8,/music/hidden/these-new-puritans,Indie
+33,Shearwater,Golden Archipelago,74,8.8,/music/golden-archipelago/shearwater,Alternative-Folk
+34,Local Natives,Gorilla Manor,80,8.8,/music/gorilla-manor/local-natives,Indie
+35,Yeasayer,Odd Blood,78,8.8,/music/odd-blood/yeasayer,Indie
+36,H.I.M.,Screamworks: Love in Theory and Practice,61,8.8,/music/screamworks-love-in-theory-and-practice/him,Rock
+37,Freedy Johnston,Rain On The City,79,8.8,/music/rain-on-the-city/freedy-johnston,Rock
+38,Annie,Don't Stop,77,8.8,/music/dont-stop/annie,Rock
+39,Them Crooked Vultures,Them Crooked Vultures,75,8.8,/music/them-crooked-vultures/them-crooked-vultures,Rock
+40,Nirvana,Live At Reading,93,8.8,/music/live-at-reading/nirvana,Rock
+41,Julian Casablancas,Phrazes For The Young,72,8.8,/music/phrazes-for-the-young/julian-casablancas,Indie
+42,Hudson Mohawke,Butter,80,8.8,/music/butter/hudson-mohawke,Electronic
+43,Converge,Axe To Fall,77,8.8,/music/axe-to-fall/converge,Rock
+44,Russian Circles,Geneva,79,8.8,/music/geneva/russian-circles,Rock
+45,Atlas Sound,Logos,81,8.8,/music/logos/atlas-sound,Indie
+46,Florence + the Machine,Lungs,79,8.8,/music/lungs/florence-+-the-machine,Rock
+47,Neon Indian,Psychic Chasms,81,8.8,/music/psychic-chasms/neon-indian,Electronic
+48,Dead Man's Bones,Dead Man's Bones,76,8.8,/music/dead-mans-bones/dead-mans-bones,Rock
+49,The Mountain Goats,The Life Of The World To Come,78,8.8,/music/the-life-of-the-world-to-come/the-mountain-goats,Indie
+50,Port O'Brien,Threadbare,73,8.8,/music/threadbare/port-obrien,Indie
+51,The xx,xx,87,8.8,/music/xx/the-xx,Indie
+52,Alice in Chains,Black Gives Way To Blue,69,8.8,/music/black-gives-way-to-blue/alice-in-chains,Rock
+53,Brother Ali,Us,83,8.8,/music/us/brother-ali,Rap
+54,Islands,Vapours,79,8.8,/music/vapours/islands,Indie
+55,Pearl Jam,Backspacer,79,8.8,/music/backspacer/pearl-jam,Rock
+56,Manic Street Preachers,Journal For Plague Lovers,85,8.8,/music/journal-for-plague-lovers/manic-street-preachers,Rock
+57,Kid Cudi,Man On The Moon: The End Of Day,71,8.8,/music/man-on-the-moon-the-end-of-day/kid-cudi,Rap
+58,Yo La Tengo,Popular Songs,79,8.8,/music/popular-songs/yo-la-tengo,Indie
+59,The Black Crowes,Before the Frost...,75,8.8,/music/before-the-frost/the-black-crowes,Rock
+60,David Bazan,Curse Your Branches,82,8.8,/music/curse-your-branches/david-bazan,Indie
+61,Imogen Heap,Ellipse,68,8.8,/music/ellipse/imogen-heap,Rock
+62,Mew,No More Stories Are Told Today I'm Sorry They Washed Away No More Stories the World Is Grey I'm Tired Let's Wash Away,79,8.8,/music/no-more-stories-are-told-today-im-sorry-they-washed-away-no-more-stories-the-world-is-grey-im-tired-/mew,Indie
+63,The Antlers,Hospice,83,8.8,/music/hospice/the-antlers,Indie
+64,Mount Eerie,Wind's Poem,85,8.8,/music/winds-poem/mount-eerie,Indie
+65,Soulsavers,Broken,78,8.8,/music/broken/soulsavers,Electronic
+66,The Fiery Furnaces,I'm Going Away,76,8.8,/music/im-going-away/the-fiery-furnaces,Indie
+67,Chali 2na,Fish Outta Water,70,8.8,/music/fish-outta-water/chali-2na,Rap
+68,Deer Tick,Born On Flag Day,72,8.8,/music/born-on-flag-day/deer-tick,Rock
+69,Sunset Rubdown,Dragonslayer,81,8.8,/music/dragonslayer/sunset-rubdown,Indie
+70,Dinosaur Jr.,Farm,76,8.8,/music/farm/dinosaur-jr,Rock
+71,The Phenomenal Handclap Band,The Phenomenal Handclap Band,68,8.8,/music/the-phenomenal-handclap-band/the-phenomenal-handclap-band,Unspecified
+72,Grizzly Bear,Veckatimest,85,8.8,/music/veckatimest/grizzly-bear,Indie
+73,Phoenix,Wolfgang Amadeus Phoenix,82,8.8,/music/wolfgang-amadeus-phoenix/phoenix,Indie
+74,St. Vincent,Actor,81,8.8,/music/actor/st-vincent,Indie
+75,New York Dolls,Cause I Sez So,73,8.8,/music/cause-i-sez-so/new-york-dolls,Rock
+76,The Horrors,Primary Colours,82,8.8,/music/primary-colours/the-horrors,Rock
+77,Ben Harper And Relentless7,White Lies For Dark Times,69,8.8,/music/white-lies-for-dark-times/ben-harper-and-relentless7,Rock
+78,Thee Oh Sees,Help,81,8.8,/music/help/thee-oh-sees,Rock
+79,Mr. Lif,I Heard It Today,70,8.8,/music/i-heard-it-today/mr-lif,Unspecified
+80,Wooden Shjips,Dos,66,8.8,/music/dos/wooden-shjips,Indie
+81,Metric,Fantasies,77,8.8,/music/fantasies/metric,Indie
+82,Ida Maria,Fortress Around My Heart,74,8.8,/music/fortress-around-my-heart/ida-maria,Rock
+83,Silversun Pickups,Swoon,64,8.8,/music/swoon/silversun-pickups,Indie
+84,Doves,Kingdom Of Rust,77,8.8,/music/kingdom-of-rust/doves,Indie
+85,Bob Mould,Life And Times,70,8.8,/music/life-and-times/bob-mould,Rock
+86,Keith Urban,Defying Gravity,68,8.8,/music/defying-gravity/keith-urban,Country
+87,Dan Deacon,Bromst,77,8.8,/music/bromst/dan-deacon,Electronic
+88,Mastodon,Crack The Skye,82,8.8,/music/crack-the-skye/mastodon,Rock
+89,Fever Ray,Fever Ray,81,8.8,/music/fever-ray/fever-ray,Electronic
+90,Peter Doherty,Grace/Wastelands,74,8.8,/music/gracewastelands/peter-doherty,Rock
+91,Serge Gainsbourg,Histoire de Melody Nelson,96,8.8,/music/histoire-de-melody-nelson/serge-gainsbourg,Rock
+92,Mono,Hymn To The Immortal Wind,75,8.8,/music/hymn-to-the-immortal-wind/mono,Rock
+93,1990s,Kicks,65,8.8,/music/kicks/1990s,Indie
+94,Pearl Jam,Ten [Reissue],84,8.8,/music/ten-reissue/pearl-jam,Rock
+95,Marianne Faithfull,"Easy Come, Easy Go",76,8.8,/music/easy-come-easy-go/marianne-faithfull,Rock
+96,Kylesa,Static Tensions,79,8.8,/music/static-tensions/kylesa,Rock
+97,The Strange Boys,The Strange Boys And Girls Club,76,8.8,/music/the-strange-boys-and-girls-club/the-strange-boys,Indie
+98,The-Dream,Love vs Money,83,8.8,/music/love-vs-money/the-dream,R&B
+99,Bell X1,Blue Lights On The Runway,73,8.8,/music/blue-lights-on-the-runway/bell-x1,Indie
+0,The Prodigy,Invaders Must Die,74,8.8,/music/invaders-must-die/the-prodigy,Electronic
+1,K'NAAN,Troubadour,74,8.8,/music/troubadour/knaan,Rap
+2,Lamb of God,Wrath,76,8.8,/music/wrath/lamb-of-god,Rock
+3,Death,...For The Whole World To See,79,8.8,/music/for-the-whole-world-to-see/death,Rock
+4,M. Ward,Hold Time,80,8.8,/music/hold-time/m-ward,Rock
+5,Dan Auerbach,Keep It Hid,74,8.8,/music/keep-it-hid/dan-auerbach,Rock
+6,Dälek,Gutter Tactics,72,8.8,/music/gutter-tactics/dalek,Alternative
+7,Anthony Hamilton,The Point Of It All,71,8.8,/music/the-point-of-it-all/anthony-hamilton,R&B
+8,Rivers Cuomo,Alone II: The Home Recordings,74,8.8,/music/alone-ii-the-home-recordings/rivers-cuomo,Indie
+9,The Fireman,Electric Arguments,80,8.8,/music/electric-arguments/the-fireman,Rock
+10,Fennesz,Black Sea,74,8.8,/music/black-sea/fennesz,Electronic
+11,Eagles of Death Metal,Heart On,81,8.8,/music/heart-on/eagles-of-death-metal,Rock
+12,Deerhunter,Microcastle,77,8.8,/music/microcastle/deerhunter,Rock
+13,Aterciopelados,Rio,71,8.8,/music/rio/aterciopelados,Pop
+14,Of Montreal,Skeletal Lamping,86,8.8,/music/skeletal-lamping/of-montreal,Indie
+15,Bob Dylan,Tell Tale Signs: The Bootleg Series Vol. 8,88,8.8,/music/tell-tale-signs-the-bootleg-series-vol-8/bob-dylan,Rock
+16,TV on the Radio,"Dear Science,",78,8.8,/music/dear-science/tv-on-the-radio,Rock
+17,Amanda Palmer,Who Killed Amanda Palmer,75,8.8,/music/who-killed-amanda-palmer/amanda-palmer,Rock
+18,Joan Baez,Day After Tomorrow,76,8.8,/music/day-after-tomorrow/joan-baez,Folk
+19,Apollo Sunshine,Shall Noise Upon,72,8.8,/music/shall-noise-upon/apollo-sunshine,Rock
+20,New Kids on the Block,The Block,64,8.8,/music/the-block/new-kids-on-the-block,Rock
+21,Solange,Sol-Angel And The Hadley St. Dreams,77,8.8,/music/sol-angel-and-the-hadley-st-dreams/solange,R&B
+22,The Stills,Oceans Will Rise,75,8.8,/music/oceans-will-rise/the-stills,Rock
+23,The Gaslight Anthem,The '59 Sound,61,8.8,/music/the-59-sound/the-gaslight-anthem,Rock
+24,Ra Ra Riot,The Rhumb Line,85,8.8,/music/the-rhumb-line/ra-ra-riot,Indie
+25,The Faint,Fasciinatiion,78,8.8,/music/fasciinatiion/the-faint,Indie
+26,Paavoharju,Laulu Laakson Kukista,87,8.8,/music/laulu-laakson-kukista/paavoharju,Rock
+27,Wolf Parade,At Mount Zoomer,74,8.8,/music/at-mount-zoomer/wolf-parade,Indie
+28,Dennis Wilson,Pacific Ocean Blue [Reissue],80,8.8,/music/pacific-ocean-blue-reissue/dennis-wilson,Rock
+29,The Notwist,"The Devil, You + Me",87,8.8,/music/the-devil-you-+-me/the-notwist,Rock
+30,Grouper,Dragging A Dead Deer Up A Hill,73,8.8,/music/dragging-a-dead-deer-up-a-hill/grouper,Rock
+31,Fleet Foxes,Fleet Foxes,82,8.8,/music/fleet-foxes/fleet-foxes,Indie
+32,Ladytron,Velocifero,69,8.8,/music/velocifero/ladytron,Pop
+33,Opeth,Watershed,76,8.8,/music/watershed/opeth,Rock
+34,Cyndi Lauper,Bring Ya To The Brink,76,8.8,/music/bring-ya-to-the-brink/cyndi-lauper,Rock
+35,Spiritualized,Songs in A&E,71,8.8,/music/songs-in-ae/spiritualized,Indie
+36,Air France,No Way Down [EP],66,8.8,/music/no-way-down-ep/air-france,Indie
+37,Islands,Arm's Way,64,8.8,/music/arms-way/islands,Unspecified
+38,Donna Summer,Crayons,86,8.8,/music/crayons/donna-summer,Pop
+39,We Are Scientists,Brain Thrust Mastery,73,8.8,/music/brain-thrust-mastery/we-are-scientists,Indie
+40,Robyn,Robyn,69,8.8,/music/robyn/robyn,Rock
+41,Estelle,Shine,79,8.8,/music/shine/estelle,Rap
+42,Pyramids,Pyramids,74,8.8,/music/pyramids/pyramids,Rock
+43,Cut Copy,In Ghost Colours,80,8.8,/music/in-ghost-colours/cut-copy,Dance
+44,Man Man,Rabbit Habits,80,8.8,/music/rabbit-habits/man-man,Rock
+45,Sun Kil Moon,April,76,8.8,/music/april/sun-kil-moon,Indie
+46,The Gutter Twins,Saturnalia,88,8.8,/music/saturnalia/the-gutter-twins,Rock
+47,The Felice Brothers,The Felice Brothers,70,8.8,/music/the-felice-brothers/the-felice-brothers,Rock
+48,Bon Iver,"For Emma, Forever Ago",74,8.8,/music/for-emma-forever-ago/bon-iver,Indie
+49,Grand Archives,Grand Archives,79,8.8,/music/grand-archives/grand-archives,Indie
+50,The Mountain Goats,Heretic Pride,64,8.8,/music/heretic-pride/the-mountain-goats,Unspecified
+51,Black Mountain,In The Future,77,8.8,/music/in-the-future/black-mountain,Indie
+52,Sia,Some People Have Real Problems,78,8.8,/music/some-people-have-real-problems/sia,Rock
+53,Lupe Fiasco,The Cool,87,8.8,/music/the-cool/lupe-fiasco,Rap
+54,Daft Punk,Alive 2007,82,8.8,/music/alive-2007/daft-punk,Dance
+55,Robert Plant And Alison Krauss,Raising Sand,79,8.8,/music/raising-sand/robert-plant-and-alison-krauss,Folk
+56,Róisín Murphy,Overpowered,80,8.8,/music/overpowered/roisin-murphy,Dance
+57,Vanessa Carlton,Heroes & Thieves,76,8.8,/music/heroes-thieves/vanessa-carlton,Rock
+58,Jens Lekman,Night Falls Over Kortedala,80,8.8,/music/night-falls-over-kortedala/jens-lekman,Indie
+59,Sunset Rubdown,Random Spirit Lover,68,8.8,/music/random-spirit-lover/sunset-rubdown,Indie
+60,Beirut,The Flying Club Cup,84,8.8,/music/the-flying-club-cup/beirut,Rock
+61,Annie Lennox,Songs Of Mass Destruction,84,8.8,/music/songs-of-mass-destruction/annie-lennox,Rock
+62,Iron & Wine,The Shepherd's Dog,67,8.8,/music/the-shepherds-dog/iron-wine,Indie
+63,Me'Shell Ndegéocello,The World Has Made Me The Man Of My Dreams,79,8.8,/music/the-world-has-made-me-the-man-of-my-dreams/meshell-ndegeocello,R&B
+64,Eddie Vedder,Into The Wild,77,8.8,/music/into-the-wild/eddie-vedder,Soundtrack
+65,Animal Collective,Strawberry Jam,74,8.8,/music/strawberry-jam/animal-collective,Indie
+66,Angels Of Light,We Are Him,79,8.8,/music/we-are-him/angels-of-light,Indie
+67,Minus the Bear,Planet of Ice,80,8.8,/music/planet-of-ice/minus-the-bear,Indie
+68,Josh Ritter,The Historical Conquests of Josh Ritter,70,8.8,/music/the-historical-conquests-of-josh-ritter/josh-ritter,Rock
+69,A Place to Bury Strangers,A Place To Bury Strangers,84,8.8,/music/a-place-to-bury-strangers/a-place-to-bury-strangers,Indie
+70,The Coral,Roots & Echoes,73,8.8,/music/roots-echoes/the-coral,Indie
+71,Spoon,Ga Ga Ga Ga Ga,76,8.8,/music/ga-ga-ga-ga-ga/spoon,Indie
+72,The Aliens,Astronomy For Dogs,68,8.8,/music/astronomy-for-dogs/the-aliens,Indie
+73,Arthur & Yu,In Camera,84,8.8,/music/in-camera/arthur-yu,Rock
+74,The Polyphonic Spree,The Fragile Army,86,8.8,/music/the-fragile-army/the-polyphonic-spree,Indie
+75,Richard Thompson,Sweet Warrior,69,8.8,/music/sweet-warrior/richard-thompson,Rock
+76,The National,Boxer,79,8.8,/music/boxer/the-national,Indie
+77,Tori Amos,American Doll Posse,73,8.8,/music/american-doll-posse/tori-amos,Rock
+78,Dinosaur Jr.,Beyond,79,8.8,/music/beyond/dinosaur-jr,Rock
+79,Rush,Snakes & Arrows,76,8.8,/music/snakes-arrows/rush,Rock
+80,Feist,The Reminder,83,8.8,/music/the-reminder/feist,Indie
+81,Nine Inch Nails,Year Zero,77,8.8,/music/year-zero/nine-inch-nails,Rock
+82,Blonde Redhead,23,81,8.8,/music/23/blonde-redhead,Indie
+83,The Veils,Nux Vomica,66,8.8,/music/nux-vomica/the-veils,Indie
+84,Andrew Bird,Armchair Apocrypha,68,8.8,/music/armchair-apocrypha/andrew-bird,Indie
+85,Willy Mason,If The Ocean Gets Rough,65,8.8,/music/if-the-ocean-gets-rough/willy-mason,Indie
+86,The Ponys,Turn The Lights Out,77,8.8,/music/turn-the-lights-out/the-ponys,Indie
+87,Wolf & Cub,Vessels,74,8.8,/music/vessels/wolf-cub,Indie
+88,Do Make Say Think,"You, You're A History In Rust",80,8.8,/music/you-youre-a-history-in-rust/do-make-say-think,Indie
+89,High Llamas,Can Cladders,92,8.8,/music/can-cladders/high-llamas,Indie
+90,Of Montreal,"Hissing Fauna, Are You The Destroyer?",78,8.8,/music/hissing-fauna-are-you-the-destroyer/of-montreal,Indie
+91,Tom Waits,"Orphans: Brawlers, Bawlers & Bastards",79,8.8,/music/orphans-brawlers-bawlers-bastards/tom-waits,Rock
+92,Brand New,The Devil And God Are Raging Inside Me,80,8.8,/music/the-devil-and-god-are-raging-inside-me/brand-new,Rock
+93,My Chemical Romance,The Black Parade,76,8.8,/music/the-black-parade/my-chemical-romance,Rock
+94,A Hawk and a Hacksaw,The Way The Wind Blows,78,8.8,/music/the-way-the-wind-blows/a-hawk-and-a-hacksaw,Indie
+95,The Blood Brothers,Young Machetes,84,8.8,/music/young-machetes/the-blood-brothers,Indie
+96,Pernice Brothers,Live A Little,83,8.8,/music/live-a-little/pernice-brothers,Indie
+97,The Decemberists,The Crane Wife,82,8.8,/music/the-crane-wife/the-decemberists,Indie
+0,Declan McKenna,Zeros,81,8.7,/music/zeros/declan-mckenna,Unspecified
+1,Alanis Morissette,Such Pretty Forks in the Road,71,8.7,/music/such-pretty-forks-in-the-road/alanis-morissette,Pop/Rock
+2,Ellie Goulding,Brightest Blue,74,8.7,/music/brightest-blue/ellie-goulding,Unspecified
+3,HAIM,"Women in Music, Pt. III",89,8.7,/music/women-in-music-pt-iii/haim,Pop/Rock
+4,Muzz,Muzz,75,8.7,/music/muzz/muzz,Pop/Rock
+5,Freddie Gibbs,Alfredo,88,8.7,/music/alfredo/freddie-gibbs,Rap
+6,Nicole Atkins,Italian Ice,78,8.7,/music/italian-ice/nicole-atkins,Pop/Rock
+7,Caleb Landry Jones,The Mother Stone,63,8.7,/music/the-mother-stone/caleb-landry-jones,Pop/Rock
+8,Lucinda Williams,Good Souls Better Angels,84,8.7,/music/good-souls-better-angels/lucinda-williams,Folk
+9,Laura Marling,Song for Our Daughter,88,8.7,/music/song-for-our-daughter/laura-marling,Pop/Rock
+10,Ren Harvieu,Revel in the Drama,81,8.7,/music/revel-in-the-drama/ren-harvieu,Pop/Rock
+11,Jessie Reyez,Before Love Came To Kill Us,82,8.7,/music/before-love-came-to-kill-us/jessie-reyez,R&B
+12,Allie X,Cape God,78,8.7,/music/cape-god/allie-x,Pop/Rock
+13,Greg Dulli,Random Desire,76,8.7,/music/random-desire/greg-dulli,Pop/Rock
+14,Nathaniel Rateliff,And It's Still Alright,68,8.7,/music/and-its-still-alright/nathaniel-rateliff,Pop/Rock
+15,Katie Gately,Loom,85,8.7,/music/loom/katie-gately,Electronic
+16,Kesha,High Road,73,8.7,/music/high-road/kesha,Electronic
+17,Selena Gomez,Rare,76,8.7,/music/rare/selena-gomez,Unspecified
+18,Camila Cabello,Romance,71,8.7,/music/romance/camila-cabello,Unspecified
+19,Foals,"Everything Not Saved Will Be Lost, Pt. 2",77,8.7,/music/everything-not-saved-will-be-lost-pt-2/foals,Pop/Rock
+20,Caroline Polachek,Pang,82,8.7,/music/pang/caroline-polachek,Electronic
+21,Vagabon,Vagabon,82,8.7,/music/vagabon/vagabon,Pop/Rock
+22,Keane,Cause and Effect,68,8.7,/music/cause-and-effect/keane,Pop/Rock
+23,Charli XCX,Charli,80,8.7,/music/charli/charli-xcx,Pop/Rock
+24,(Sandy) Alex G,House of Sugar,86,8.7,/music/house-of-sugar/sandy-alex-g,Pop/Rock
+25,Jay Som,Anak Ko,82,8.7,/music/anak-ko/jay-som,Pop/Rock
+26,King Gizzard & the Lizard Wizard,Infest the Rats' Nest,77,8.7,/music/infest-the-rats-nest/king-gizzard-the-lizard-wizard,Pop/Rock
+27,Clairo,Immunity,76,8.7,/music/immunity/clairo,Pop/Rock
+28,Kim Petras,Clarity,83,8.7,/music/clarity/kim-petras,Electronic
+29,Thom Yorke,ANIMA,84,8.7,/music/anima/thom-yorke,Pop/Rock
+30,Madonna,Madame X,70,8.7,/music/madame-x/madonna,Pop/Rock
+31,Local Natives,Violet Street,76,8.7,/music/violet-street/local-natives,Pop/Rock
+32,Sigrid,Sucker Punch,78,8.7,/music/sucker-punch/sigrid,Pop/Rock
+33,Emily King,Scenery,76,8.7,/music/scenery/emily-king,Pop/Rock
+34,Architects,Holy Hell,90,8.7,/music/holy-hell/architects,Metal
+35,Kids See Ghosts,Kids See Ghosts,84,8.7,/music/kids-see-ghosts/kids-see-ghosts,Rap
+36,Kadhja Bonet,Childqueen,82,8.7,/music/childqueen/kadhja-bonet,R&B
+37,Kali Uchis,Isolation,87,8.7,/music/isolation/kali-uchis,Unspecified
+38,Kacey Musgraves,Golden Hour,89,8.7,/music/golden-hour/kacey-musgraves,Country
+39,Young Fathers,Cocoa Sugar,87,8.7,/music/cocoa-sugar/young-fathers,Rap
+40,CupcakKe,Ephorize,84,8.7,/music/ephorize/cupcakke,Rap
+41,Curtis Harding,Face Your Fear,80,8.7,/music/face-your-fear/curtis-harding,R&B
+42,St. Vincent,Masseduction,88,8.7,/music/masseduction/st-vincent,Pop/Rock
+43,Tori Amos,Native Invader,76,8.7,/music/native-invader/tori-amos,Adult Contemporary
+44,Orchestral Manoeuvres in the Dark,The Punishment of Luxury,71,8.7,/music/the-punishment-of-luxury/orchestral-manoeuvres-in-the-dark,Pop/Rock
+45,Susanne Sundfør,Music for People in Trouble,80,8.7,/music/music-for-people-in-trouble/susanne-sundfor,Pop/Rock
+46,Beth Ditto,Fake Sugar,74,8.7,/music/fake-sugar/beth-ditto,Pop/Rock
+47,Six Organs of Admittance,Burning the Threshold,82,8.7,/music/burning-the-threshold/six-organs-of-admittance,Unspecified
+48,Tove Lo,Lady Wood,74,8.7,/music/lady-wood/tove-lo,Electronic
+49,Banks,The Altar,70,8.7,/music/the-altar/banks,Pop/Rock
+50,Glass Animals,How to Be a Human Being,74,8.7,/music/how-to-be-a-human-being/glass-animals,Pop/Rock
+51,Nothing,Tired of Tomorrow,73,8.7,/music/tired-of-tomorrow/nothing,Pop/Rock
+52,Laura Gibson,Empire Builder,79,8.7,/music/empire-builder/laura-gibson,Folk
+53,Emmy the Great,Second Love,77,8.7,/music/second-love/emmy-the-great,Pop/Rock
+54,Autre Ne Veut,Age of Transparency,79,8.7,/music/age-of-transparency/autre-ne-veut,R&B
+55,Squeeze,Cradle to the Grave,75,8.7,/music/cradle-to-the-grave/squeeze,Pop/Rock
+56,Deafheaven,New Bermuda,85,8.7,/music/new-bermuda/deafheaven,Pop/Rock
+57,Travis Scott,Rodeo,64,8.7,/music/rodeo/travis-scott,Rap
+58,Myrkur,M,83,8.7,/music/m/myrkur,Pop/Rock
+59,Julio Bashmore,Knockin' Boots,79,8.7,/music/knockin-boots/julio-bashmore,Electronic
+60,Wolf Alice,My Love Is Cool,78,8.7,/music/my-love-is-cool/wolf-alice,Pop/Rock
+61,Everything Everything,Get to Heaven,80,8.7,/music/get-to-heaven/everything-everything,Pop/Rock
+62,Jamie xx,In Colour,87,8.7,/music/in-colour/jamie-xx,Electronic
+63,Kamasi Washington,The Epic,83,8.7,/music/the-epic/kamasi-washington,Jazz
+64,Houndmouth,Little Neon Limelight,74,8.7,/music/little-neon-limelight/houndmouth,Country
+65,Steven Wilson,Hand.Cannot.Erase.,89,8.7,/music/handcannoterase/steven-wilson,Pop/Rock
+66,Jazmine Sullivan,Reality Show,85,8.7,/music/reality-show/jazmine-sullivan,R&B
+67,King Gizzard & the Lizard Wizard,I'm in Your Mind Fuzz,75,8.7,/music/im-in-your-mind-fuzz/king-gizzard-the-lizard-wizard,Pop/Rock
+68,Primus,Primus & the Chocolate Factory with the Fungi Ensemble,61,8.7,/music/primus-the-chocolate-factory-with-the-fungi-ensemble/primus,Pop/Rock
+69,Weyes Blood,The Innocents,82,8.7,/music/the-innocents/weyes-blood,Pop/Rock
+70,Vashti Bunyan,Heartleap,82,8.7,/music/heartleap/vashti-bunyan,Folk
+71,Hozier,Hozier,79,8.7,/music/hozier/hozier,Folk
+72,Lucinda Williams,Down Where the Spirit Meets the Bone,83,8.7,/music/down-where-the-spirit-meets-the-bone/lucinda-williams,Country
+73,Jenny Hval & Susanna,Meshes of Voice,84,8.7,/music/meshes-of-voice/jenny-hval-susanna,Pop/Rock
+74,Sharon Van Etten,Are We There,86,8.7,/music/are-we-there/sharon-van-etten,Pop/Rock
+75,Swans,To Be Kind,88,8.7,/music/to-be-kind/swans,Pop/Rock
+76,Douglas Dare,Whelm,83,8.7,/music/whelm/douglas-dare,Pop/Rock
+77,Mac DeMarco,Salad Days,82,8.7,/music/salad-days/mac-demarco,Pop/Rock
+78,The War on Drugs,Lost In the Dream,86,8.7,/music/lost-in-the-dream/the-war-on-drugs,Pop/Rock
+79,Freddie Gibbs,Piñata,82,8.7,/music/pioata/madlib,Rap
+80,Nothing,Guilty of Everything,77,8.7,/music/guilty-of-everything/nothing,Pop/Rock
+81,Modern Baseball,You're Gonna Miss It All,76,8.7,/music/youre-gonna-miss-it-all/modern-baseball,Pop/Rock
+82,Melt Banana,Fetch,80,8.7,/music/fetch/melt-banana,Avant-Garde
+83,Agnes Obel,Aventine,74,8.7,/music/aventine/agnes-obel,Alternative Pop/Rock
+84,HAIM,Days Are Gone,79,8.7,/music/days-are-gone/haim,Unspecified
+85,Yoko Ono Plastic Ono Band,Take Me to the Land of Hell,79,8.7,/music/take-me-to-the-land-of-hell/yoko-ono-plastic-ono-band,Experimental
+86,Weekend,Jinx,77,8.7,/music/jinx/weekend,Pop/Rock
+87,Smith Westerns,Soft Will,71,8.7,/music/soft-will/smith-westerns,Pop/Rock
+88,Quadron,Avalanche,72,8.7,/music/avalanche/quadron,Electronic
+89,The National,Trouble Will Find Me,84,8.7,/music/trouble-will-find-me/the-national,Pop/Rock
+90,Chance the Rapper,Acid Rap,86,8.7,/music/acid-rap/chance-the-rapper,Rap
+91,James Blake,Overgrown,82,8.7,/music/overgrown/james-blake,Electronic
+92,Justin Timberlake,The 20/20 Experience,75,8.7,/music/the-2020-experience/justin-timberlake,R&B
+93,They Might Be Giants,Nanobots,69,8.7,/music/nanobots/they-might-be-giants,Pop/Rock
+94,Stereophonics,Graffiti on the Train,64,8.7,/music/graffiti-on-the-train/stereophonics,Pop/Rock
+95,Apparat,Krieg und Frieden (Music for Theatre),70,8.7,/music/krieg-und-frieden-music-for-theatre/apparat,Electronic
+96,Jacco Gardner,Cabinet of Curiosities,75,8.7,/music/cabinet-of-curiosities/jacco-gardner,Pop/Rock
+97,Robbie Williams,Take the Crown,65,8.7,/music/take-the-crown/robbie-williams,Pop/Rock
+98,Black Moth Super Rainbow,Cobra Juicy,72,8.7,/music/cobra-juicy/black-moth-super-rainbow,Pop/Rock
+0,Godspeed You! Black Emperor,'Allelujah! Don't Bend! Ascend!,81,8.7,/music/allelujah!-dont-bend!-ascend!/godspeed-you!-black-emperor,Pop/Rock
+1,Between the Buried and Me,The Parallax II: Future Sequence,74,8.7,/music/the-parallax-ii-future-sequence/between-the-buried-and-me,Unspecified
+2,Melody's Echo Chamber,Melody's Echo Chamber,79,8.7,/music/melodys-echo-chamber/melodys-echo-chamber,Pop/Rock
+3,The Raveonettes,Observator,73,8.7,/music/observator/the-raveonettes,Alternative/Indie Rock
+4,Deerhoof,Breakup Song,78,8.7,/music/breakup-song/deerhoof,Alternative/Indie Rock
+5,Om,Advaitic Songs,67,8.7,/music/advaitic-songs/om,Pop/Rock
+6,TNGHT,TNGHT [EP],83,8.7,/music/tnght-ep/tnght,Pop/Rock
+7,Twin Shadow,Confess,76,8.7,/music/confess/twin-shadow,Pop/Rock
+8,Lorn,Ask the Dust,81,8.7,/music/ask-the-dust/lorn,Electronic
+9,Azealia Banks,1991 [EP],84,8.7,/music/1991-ep/azealia-banks,Rap
+10,Hot Chip,In Our Heads,79,8.7,/music/in-our-heads/hot-chip,Alternative Pop/Rock
+11,The Tallest Man on Earth,There's No Leaving Now,72,8.7,/music/theres-no-leaving-now/the-tallest-man-on-earth,Pop/Rock
+12,The Walkmen,Heaven,80,8.7,/music/heaven/the-walkmen,Pop/Rock
+13,Rebecca Ferguson,Heaven,84,8.7,/music/heaven/rebecca-ferguson,R&B
+14,Laurel Halo,Quarantine,80,8.7,/music/quarantine/laurel-halo,Electronic
+15,Exitmusic,Passage,75,8.7,/music/passage/exitmusic,Electronic
+16,Ab-Soul,Control System,83,8.7,/music/control-system/ab-soul,Rap
+17,Santigold,Master of My Make-Believe,74,8.7,/music/master-of-my-make-believe/santigold,Pop/Rock
+18,Lower Dens,Nootropics,80,8.7,/music/nootropics/lower-dens,Pop/Rock
+19,Feeder,Generation Freakshow,85,8.7,/music/generation-freakshow/feeder,Pop/Rock
+20,High on Fire,De Vermis Mysteriis,74,8.7,/music/de-vermis-mysteriis/high-on-fire,Pop/Rock
+21,Esperanza Spalding,Radio Music Society,81,8.7,/music/radio-music-society/esperanza-spalding,Jazz
+22,Cannibal Corpse,Torture,80,8.7,/music/torture/cannibal-corpse,Pop/Rock
+23,John Talabot,Fin,80,8.7,/music/fin/john-talabot,Electronic
+24,Django Django,Django Django,73,8.7,/music/django-django/django-django,Pop/Rock
+25,C.U.B.A.,Area 52,82,8.7,/music/area-52/rodrigo-y-gabriela,Latin
+26,The Weeknd,Echoes of Silence,77,8.7,/music/echoes-of-silence/the-weeknd,R&B
+27,Kishi Bashi,151A,61,8.7,/music/151a/kishi-bashi,Pop/Rock
+28,Birdy,Birdy,69,8.7,/music/birdy/birdy,Pop/Rock
+29,Class Actress,Rapprocher,82,8.7,/music/rapprocher/class-actress,Pop/Rock
+30,Rustie,Glass Swords,70,8.7,/music/glass-swords/rustie,Electronic
+31,Tori Amos,Night of Hunters,79,8.7,/music/night-of-hunters/tori-amos,Classical
+32,Girls,"Father, Son, Holy Ghost",76,8.7,/music/father-son-holy-ghost/girls,Pop/Rock
+33,Katy B,On a Mission,66,8.7,/music/on-a-mission/katy-b,R&B
+34,Terius Nash,1977,72,8.7,/music/1977/terius-nash,Rap
+35,Dolly Parton,Better Day,71,8.7,/music/better-day/dolly-parton,Country
+36,Com Truise,Galactic Melt,80,8.7,/music/galactic-melt/com-truise,Electronic
+37,Ty Segall,Goodbye Bread,74,8.7,/music/goodbye-bread/ty-segall,Pop/Rock
+38,Steve Earle,I'll Never Get Out of This World Alive,62,8.7,/music/ill-never-get-out-of-this-world-alive/steve-earle,Country
+39,The Head and the Heart,The  Head and the Heart,76,8.7,/music/the-head-and-the-heart/the-head-and-the-heart,Folk
+40,Rise Against,Endgame,83,8.7,/music/endgame/rise-against,Pop/Rock
+41,Frank Ocean,"Nostalgia, Ultra.",86,8.7,/music/nostalgia-ultra/frank-ocean,Rap
+42,PJ Harvey,Let England Shake,63,8.7,/music/let-england-shake/pj-harvey,Pop/Rock
+43,Pendulum,Immersion,84,8.7,/music/immersion/pendulum,Electronic
+44,Delicate Steve,Wondervisions,84,8.7,/music/wondervisions/delicate-steve,Pop/Rock
+45,The Tallest Man on Earth,Sometimes the Blues is Just a Passing Bird,77,8.7,/music/sometimes-the-blues-is-just-a-passing-bird/the-tallest-man-on-earth,Pop/Rock
+46,Taylor Swift,Speak Now,74,8.7,/music/speak-now/taylor-swift,Pop
+47,Zach Hill,Face Tat,78,8.7,/music/face-tat/zach-hill,Pop/Rock
+48,Glasser,Ring,75,8.7,/music/ring/glasser,Pop/Rock
+49,Bad Religion,The  Dissent of Man,83,8.7,/music/the-dissent-of-man/bad-religion,Pop/Rock
+50,The Walkmen,Lisbon,76,8.7,/music/lisbon/the-walkmen,Pop/Rock
+51,Robyn,"Body Talk, Pt. 2",67,8.7,/music/body-talk-pt-2/robyn,Pop
+52,Kylie Minogue,Aphrodite,90,8.7,/music/aphrodite/kylie-minogue,Electronic
+53,Big Boi,Sir Lucious Left Foot: The Son of Chico Dusty,86,8.7,/music/sir-lucious-left-foot-the-son-of-chico-dusty/big-boi,Rap
+54,The Roots,How I Got Over,68,8.7,/music/how-i-got-over/the-roots,Rap
+55,Sia,We Are Born,76,8.7,/music/we-are-born/sia,Pop
+56,Robyn,Body Talk Pt 1,78,8.7,/music/body-talk-pt-1/robyn,Dance
+57,Villagers,Becoming A Jackal,74,8.7,/music/becoming-a-jackal/villagers,Indie
+58,Delta Spirit,History From Below,68,8.7,/music/history-from-below,Indie
+59,Marina and the Diamonds,The Family Jewels,73,8.7,/music/the-family-jewels/marina-and-the-diamonds,Indie
+60,Nas And Damian Marley,Distant Relatives,70,8.7,/music/distant-relatives/nas-and-damian-marley,Rap
+61,Thee Oh Sees,Warm Slime,74,8.7,/music/warm-slime/thee-oh-sees,Rock
+62,Future Islands,In Evening Air,74,8.7,/music/in-evening-air/future-islands,Pop
+63,Mike Patton,Mondo Cane,71,8.7,/music/mondo-cane/mike-patton,Pop
+64,The New Pornographers,Together,83,8.7,/music/together/the-new-pornographers,Rock
+65,Circa Survive,Blue Sky Noise,78,8.7,/music/blue-sky-noise/circa-survive,Indie
+66,The Radio Dept.,Clinging To A Scheme,76,8.7,/music/clinging-to-a-scheme/the-radio-dept,Indie
+67,Jónsi,Go,81,8.7,/music/go/jonsi,Rock
+68,Sharon Jones & the Dap-Kings,I Learned The Hard Way,78,8.7,/music/i-learned-the-hard-way/sharon-jones-the-dap-kings,R&B
+69,The White Stripes,Under Great White Northern Lights [Live],85,8.7,/music/under-great-white-northern-lights-live/the-white-stripes,Rock
+70,Pavement,Quarantine The Past,78,8.7,/music/quarantine-the-past/pavement,Rock
+71,Frightened Rabbit,The Winter Of Mixed Drinks,79,8.7,/music/the-winter-of-mixed-drinks/frightened-rabbit,Indie
+72,Johnny Cash,American VI: Ain't No Grave,78,8.7,/music/american-vi-aint-no-grave/johnny-cash,Rock
+73,Carolina Chocolate Drops,Genuine Negro Jig,71,8.7,/music/genuine-negro-jig/carolina-chocolate-drops,Country
+74,Toro y Moi,Causers of This,76,8.7,/music/causers-of-this/toro-y-moi,Indie
+75,Phantogram,Eyelid Movies,79,8.7,/music/eyelid-movies/phantogram,Unspecified
+76,Patty Griffin,Downtown Church,72,8.7,/music/downtown-church/patty-griffin,Folk
+77,Basia Bulat,Heart Of My Own,78,8.7,/music/heart-of-my-own/basia-bulat,Indie
+78,Corinne Bailey Rae,The Sea,72,8.7,/music/the-sea/corinne-bailey-rae,R&B
+79,Blakroc,Blakroc,79,8.7,/music/blakroc/blakroc,Rock
+80,Tom Waits,Glitter And Doom Live,79,8.7,/music/glitter-and-doom-live/tom-waits,Unspecified
+81,tUnE-yArDs,BiRd-BrAiNs,64,8.7,/music/bird-brains/tune-yards,Indie
+82,Robbie Williams,Reality Killed The Video Star,86,8.7,/music/reality-killed-the-video-star/robbie-williams,Rock
+83,Memory Tapes,Seek Magic,78,8.7,/music/seek-magic/memory-tapes,Dance
+84,Tegan and Sara,Sainthood,87,8.7,/music/sainthood/tegan-and-sara,Rock
+85,Baroness,Blue Record,71,8.7,/music/blue-record/baroness,Rock
+86,The Temper Trap,Conditions,81,8.7,/music/conditions/the-temper-trap,Indie
+87,The Flaming Lips,Embryonic,79,8.7,/music/embryonic/the-flaming-lips,Rock
+88,A Place to Bury Strangers,Exploding Head,74,8.7,/music/exploding-head/a-place-to-bury-strangers,Indie
+89,Jamie T,Kings & Queens,80,8.7,/music/kings-queens/jamie-t,Indie
+90,Monsters Of Folk,Monsters Of Folk,70,8.7,/music/monsters-of-folk/monsters-of-folk,Indie
+91,Mika,The Boy Who Knew Too Much,79,8.7,/music/the-boy-who-knew-too-much/mika,Rock
+92,Richard Hawley,Truelove's Gutter,72,8.7,/music/trueloves-gutter/richard-hawley,Rock
+93,Porcupine Tree,The Incident,71,8.7,/music/the-incident/porcupine-tree,Rock
+94,Mayer Hawthorne,A Strange Arrangement,88,8.7,/music/a-strange-arrangement/mayer-hawthorne,R&B
+95,Raekwon,Only Built 4 Cuban Linx... Pt. II,83,8.7,/music/only-built-4-cuban-linx-pt-ii/raekwon,Rap
+96,Wild Beasts,Two Dancers,75,8.7,/music/two-dancers/wild-beasts,Rock
+97,Modest Mouse,"No One's First, And You're Next",71,8.7,/music/no-ones-first-and-youre-next/modest-mouse,Indie
+0,Jonsi & Alex,Riceboy Sleeps,73,8.7,/music/riceboy-sleeps/jonsi-alex,Rock
+1,Wye Oak,The Knot,75,8.7,/music/the-knot/wye-oak,Indie
+2,Portugal. The Man,The Satanic Satanist,79,8.7,/music/the-satanic-satanist/portugal-the-man,Indie
+3,Maxwell,BLACKsummers'night,85,8.7,/music/blacksummersnight/maxwell,R&B
+4,The Rural Alberta Advantage,Hometowns,72,8.7,/music/hometowns/the-rural-alberta-advantage,Indie
+5,Bombay Bicycle Club,I Had the Blues But I Shook Them Loose,61,8.7,/music/i-had-the-blues-but-i-shook-them-loose/bombay-bicycle-club,Indie
+6,Future of the Left,Travels With Myself And Another,79,8.7,/music/travels-with-myself-and-another/future-of-the-left,Indie
+7,Mos Def,The Ecstatic,81,8.7,/music/the-ecstatic/mos-def,Rap
+8,J Dilla aka Jay Dee,Jay Stay Paid,81,8.7,/music/jay-stay-paid/j-dilla-aka-jay-dee,Rap
+9,Tanya Morgan,Brooklynati,79,8.7,/music/brooklynati/tanya-morgan,Rap
+10,Passion Pit,Manners,76,8.7,/music/manners/passion-pit,Unspecified
+11,Moderat,Moderat,77,8.7,/music/moderat/moderat,Dance
+12,Melody Gardot,My One And Only Thrill,71,8.7,/music/my-one-and-only-thrill/melody-gardot,Jazz
+13,Heaven & Hell,The Devil You Know,63,8.7,/music/the-devil-you-know/heaven-hell,Rock
+14,Bob Dylan,Together Through Life,76,8.7,/music/together-through-life/bob-dylan,Rock
+15,Booker T.,Potato Hole,65,8.7,/music/potato-hole/booker-t,R&B
+16,Grand Duchy,Petits Fours,69,8.7,/music/petits-fours/grand-duchy,Rock
+17,Junior Boys,Begone Dull Care,76,8.7,/music/begone-dull-care/junior-boys,Indie
+18,Micachu & the Shapes,Jewellery,75,8.7,/music/jewellery/micachu-the-shapes,Indie
+19,PJ Harvey & John Parish,"A Woman, A Man, Walked By",75,8.7,/music/a-woman-a-man-walked-by/pj-harvey-john-parish,Rock
+20,UGK,UGK 4 Life,84,8.7,/music/ugk-4-life/ugk,Rap
+21,Röyksopp,Junior,74,8.7,/music/junior/royksopp,Electronic
+22,Lotus Plaza,The Floodlight Collective,73,8.7,/music/the-floodlight-collective/lotus-plaza,Rock
+23,Elvis Perkins,Elvis Perkins In Dearland,74,8.7,/music/elvis-perkins-in-dearland/elvis-perkins,Rock
+24,The Soundtrack of Our Lives,Communion,71,8.7,/music/communion/the-soundtrack-of-our-lives,Indie
+25,Neko Case,Middle Cyclone,79,8.7,/music/middle-cyclone/neko-case,Rock
+26,Van Morrison,Astral Weeks Live At The Hollywood Bowl,77,8.7,/music/astral-weeks-live-at-the-hollywood-bowl/van-morrison,Rock
+27,Zu,Carboniferous,83,8.7,/music/carboniferous/zu,Unspecified
+28,Various Artists,Dark Was The Night,74,8.7,/music/dark-was-the-night/various-artists,Indie
+29,Robyn Hitchcock,Goodnight Oslo,77,8.7,/music/goodnight-oslo/robyn-hitchcock,Indie
+30,Heartless Bastards,The Mountain,75,8.7,/music/the-mountain/heartless-bastards,Indie
+31,Andrew Bird,Noble Beast,79,8.7,/music/noble-beast/andrew-bird,Indie
+32,Derek Trucks Band,Already Free,79,8.7,/music/already-free/derek-trucks-band,Rock
+33,Late Of The Pier,Fantasy Black Channel,81,8.7,/music/fantasy-black-channel/late-of-the-pier,Rock
+34,Angil & The Hidden Tracks,Ouliposaliva,79,8.7,/music/ouliposaliva/angil-the-hidden-tracks,Rock
+35,Butch Walker,Sycamore Meadows,81,8.7,/music/sycamore-meadows/butch-walker,Rock
+36,Jóhann Jóhannsson,Fordlandia,78,8.7,/music/fordlandia/johann-johannsson,Electronic
+37,Little Joy,Little Joy,71,8.7,/music/little-joy/little-joy,Indie
+38,Frida Hyvonen,Silence Is Wild,78,8.7,/music/silence-is-wild/frida-hyvonen,Rock
+39,Q-Tip,The Renaissance,82,8.7,/music/the-renaissance/q-tip,Rap
+40,The Cure,4:13 Dream,69,8.7,/music/413-dream/the-cure,Rock
+41,Gang Gang Dance,Saint Dymphna,78,8.7,/music/saint-dymphna/gang-gang-dance,Rock
+42,Gojira,The Way Of All Flesh,67,8.7,/music/the-way-of-all-flesh/gojira,Rock
+43,Rise Against,Appeal To Reason,65,8.7,/music/appeal-to-reason/rise-against,Rock
+44,T.I.,Paper Trail,74,8.7,/music/paper-trail/ti,Rap
+45,The Jesus and Mary Chain,The Power Of Negative Thinking: B-Sides & Rarities,80,8.7,/music/the-power-of-negative-thinking-b-sides-rarities/the-jesus-and-mary-chain,Rock
+46,Brightblack Morning Light,Motion To Rejoin,69,8.7,/music/motion-to-rejoin/brightblack-morning-light,Indie
+47,Ne-Yo,Year Of The Gentleman,79,8.7,/music/year-of-the-gentleman/ne-yo,R&B
+48,Metronomy,Nights Out,70,8.7,/music/nights-out/metronomy,Electronic
+49,Shugo Tokumaru,Exit,88,8.7,/music/exit/shugo-tokumaru,Indie
+50,Young Jeezy,The Recession,72,8.7,/music/the-recession/young-jeezy,Rap
+51,The Week That Was,The Week That Was,82,8.7,/music/the-week-that-was/the-week-that-was,Indie
+52,Glen Campbell,Meet Glen Campbell,70,8.7,/music/meet-glen-campbell/glen-campbell,Country
+53,Conor Oberst,Conor Oberst,76,8.7,/music/conor-oberst/conor-oberst,Rock
+54,CSS,Donkey,63,8.7,/music/donkey/css,Indie
+55,Sigur Rós,Med Sud I Eyrum Vid Spilum Endalaust,81,8.7,/music/med-sud-i-eyrum-vid-spilum-endalaust/sigur-ros,Rock
+56,Sam Sparro,Sam Sparro,63,8.7,/music/sam-sparro/sam-sparro,R&B
+57,Emmylou Harris,All I Intended To Be,78,8.7,/music/all-i-intended-to-be/emmylou-harris,Country
+58,Sparks,Exotic Creatures Of The Deep,74,8.7,/music/exotic-creatures-of-the-deep/sparks,Indie
+59,Alanis Morissette,Flavors Of Entanglement,63,8.7,/music/flavors-of-entanglement/alanis-morissette,Unspecified
+60,Flying Lotus,Los Angeles,81,8.7,/music/los-angeles/flying-lotus,Electronic
+61,The Charlatans UK,You Cross My Path,69,8.7,/music/you-cross-my-path/the-charlatans-uk,Indie
+62,Shearwater,Rook,85,8.7,/music/rook/shearwater,Indie
+63,The Cool Kids,The Bake Sale [EP],78,8.7,/music/the-bake-sale-ep/the-cool-kids,Rap
+64,Gavin DeGraw,Gavin DeGraw,80,8.7,/music/gavin-degraw/gavin-degraw,Rock
+65,The Roots,Rising Down,80,8.7,/music/rising-down/the-roots,Rap
+66,Frightened Rabbit,The Midnight Organ Fight,68,8.7,/music/the-midnight-organ-fight/frightened-rabbit,Indie
+67,Atmosphere,"When Life Gives You Lemons, You Paint That Shit Gold",71,8.7,/music/when-life-gives-you-lemons-you-paint-that-shit-gold/atmosphere,Rap
+68,Phantom Planet,Raise The Dead,87,8.7,/music/raise-the-dead/phantom-planet,Indie
+69,Nick Cave & The Bad Seeds,Dig!!! Lazarus Dig!!!,69,8.7,/music/dig!!!-lazarus-dig!!!/nick-cave-the-bad-seeds,Rock
+70,The Duke Spirit,Neptune,81,8.7,/music/neptune/the-duke-spirit,Indie
+71,Los Campesinos!,"Hold On Now, Youngster",75,8.7,/music/hold-on-now-youngster/los-campesinos!,Indie
+72,The Raconteurs,Consolers Of The Lonely,79,8.7,/music/consolers-of-the-lonely/the-raconteurs,Rock
+73,Neon Neon,Stainless Style,83,8.7,/music/stainless-style/neon-neon,Electronic
+74,The Dodos,The Visiter,73,8.7,/music/the-visiter/the-dodos,Unspecified
+75,Cadence Weapon,Afterparty Babies,74,8.7,/music/afterparty-babies/cadence-weapon,Indie
+76,Kathleen Edwards,Asking For Flowers,76,8.7,/music/asking-for-flowers/kathleen-edwards,Rock
+77,Stephen Malkmus,Real Emotional Trash,71,8.7,/music/real-emotional-trash/stephen-malkmus,Rock
+78,Tift Merritt,Another Country,72,8.7,/music/another-country/tift-merritt,Alternative
+79,Bell X1,Flock,83,8.7,/music/flock/bell-x1,Indie
+80,Drive-By Truckers,Brighter Than Creation's Dark,77,8.7,/music/brighter-than-creations-dark/drive-by-truckers,Indie
+81,Super Furry Animals,Hey Venus!,70,8.7,/music/hey-venus!/super-furry-animals,Unspecified
+82,Evangelicals,The Evening Descends,77,8.7,/music/the-evening-descends/evangelicals,Indie
+83,Mary J. Blige,Growing Pains,71,8.7,/music/growing-pains/mary-j-blige,R&B
+84,Kenna,Make Sure They See My Face,76,8.7,/music/make-sure-they-see-my-face/kenna,Indie
+85,Enon,Grass Geysers...Carbon Clouds,79,8.7,/music/grass-geyserscarbon-clouds/enon,Indie
+86,Sharon Jones & the Dap-Kings,"100 Days, 100 Nights",77,8.7,/music/100-days-100-nights/sharon-jones-the-dap-kings,R&B
+87,Thurston Moore,Trees Outside The Academy,71,8.7,/music/trees-outside-the-academy/thurston-moore,Indie
+88,Chamillionaire,Ultimate Victory,73,8.7,/music/ultimate-victory/chamillionaire,Rap
+89,Black Francis,Bluefinger,77,8.7,/music/bluefinger/black-francis,Rock
+90,Joe Henry,Civilians,73,8.7,/music/civilians/joe-henry,Rock
+91,Black Lips,Good Bad Not Evil,71,8.7,/music/good-bad-not-evil/black-lips,Rock
+92,Jamie T,Panic Prevention,82,8.7,/music/panic-prevention/jamie-t,Rap
+93,Okkervil River,The Stage Names,74,8.7,/music/the-stage-names/okkervil-river,Indie
+94,1990s,Cookies,78,8.7,/music/cookies/1990s,Unspecified
+95,Bishop Allen,The Broken String,80,8.7,/music/the-broken-string/bishop-allen,Indie
+96,Tegan and Sara,The Con,84,8.7,/music/the-con/tegan-and-sara,Indie
+97,Suzanne Vega,Beauty & Crime,81,8.7,/music/beauty-crime/suzanne-vega,Folk
+98,Justice,Cross,78,8.7,/music/cross/justice,Dance
